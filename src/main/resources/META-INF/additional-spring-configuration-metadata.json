@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.jpa.primary.properties.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.primary.properties.hibernate.dialect'"
+  },
+  {
+    "name": "spring.jpa.primary.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.primary.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.jpa.secondary.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.secondary.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.jpa.secondary.properties.hibernate.dialect",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.secondary.properties.hibernate.dialect'"
+  }
+]}
